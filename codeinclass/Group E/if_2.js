@@ -1,0 +1,10 @@
+//Number 2
+let score = 55;
+
+if (score >= 70) {
+    console.log("Eligible for Admission.")
+} else if (score >= 50) {
+    console.log("Admission on Probation.")
+} else {
+    console.log("Not Eligible for Admission.")
+}
