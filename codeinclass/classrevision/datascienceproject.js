@@ -1,0 +1,2 @@
+// In a data science project, you are tasked with tracking daily rainfall in different districts of Uganda. How would you declare a variable to store the rainfall amount using JavaScript? What would be the best type of variable (var, let, or const) and why?
+// I think var would work best.

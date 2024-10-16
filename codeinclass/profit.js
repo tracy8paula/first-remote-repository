@@ -6,5 +6,5 @@ function calculateProfit(selling_price,cost_price,units_sold){
     return profit
 }
 
-calculateProfit(4000,2500,2)
+calculateProfit(5000,2500,5)
 console.log("The profit got from selling maize flour is",profit)
