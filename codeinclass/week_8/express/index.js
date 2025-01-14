@@ -16,6 +16,12 @@ let friends = [ // data goes to models
     {"ID": 2, "Name": "Mercy"},
     {"ID": 3, "Name":"Daniel"}
 ];
+
+let friends_two = [
+    {"ID": 1, "Name":"Esther"},
+    {"ID": 2, "Name": "Mercy"},
+    {"ID": 3, "Name":"Daniel"}
+];
 app.get('/greeting-friends', (request,response) => {
     return response.send(friends); //send doesn't allow concatenating
 });
